@@ -20,6 +20,5 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@gykjcs-cli-dev/utils": "^1.0.0"
   }
 }
