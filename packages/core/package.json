@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "gykjcs-cli": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -18,6 +21,9 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@gykjcs-cli-dev/utils": "file:../utils"
   },
   "gitHead": "ef7f34080ca29d79b903bd295d205ef3be8736a5"
 }
