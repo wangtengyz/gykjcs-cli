@@ -10,7 +10,7 @@
   "author": "tengye",
   "license": "ISC",
   "devDependencies": {
-    "@gykjcs-cli-dev/core": "^1.0.7",
+    "@gykjcs-cli-dev/core": "^1.0.9",
     "lerna": "^3.22.1"
   }
 }
