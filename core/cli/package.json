@@ -1,11 +1,11 @@
 {
   "name": "@gykjcs-cli-dev/core",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "gykjcs-cli-dev core",
-  "author": "wangtengyezi",
+  "author": "tengye",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/core.js",
+  "main": "lib/index.js",
   "bin": {
     "gykjcs-cli": "bin/index.js"
   },
@@ -23,7 +23,9 @@
     "access": "public"
   },
   "dependencies": {
-    "@gykjcs-cli-dev/utils": "file:../utils"
+    "@gykjcs-cli-dev/utils": "file:../../utils/utils",
+    "import-local": "^3.1.0",
+    "npmlog": "^6.0.2"
   },
   "gitHead": "ef7f34080ca29d79b903bd295d205ef3be8736a5"
 }

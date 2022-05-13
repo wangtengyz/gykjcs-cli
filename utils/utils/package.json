@@ -2,7 +2,7 @@
   "name": "@gykjcs-cli-dev/utils",
   "version": "1.0.7",
   "description": "> TODO: description",
-  "author": "wangtengyezi",
+  "author": "tengye",
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
