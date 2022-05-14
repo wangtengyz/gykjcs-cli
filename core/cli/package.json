@@ -23,9 +23,12 @@
     "access": "public"
   },
   "dependencies": {
-    "@gykjcs-cli-dev/utils": "file:../../utils/utils",
+    "@gykjcs-cli-dev/log": "file:../../utils/log",
+    "colors": "^1.4.0",
     "import-local": "^3.1.0",
-    "npmlog": "^6.0.2"
+    "npmlog": "^6.0.2",
+    "root-check": "^1.0.0",
+    "semver": "^7.3.7"
   },
   "gitHead": "ef7f34080ca29d79b903bd295d205ef3be8736a5"
 }
