@@ -17,6 +17,9 @@
     "type": "git",
     "url": "git+https://github.com/wangtengyz/gykjcs-cli.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
@@ -27,5 +30,6 @@
     "axios": "^0.27.2",
     "semver": "^7.3.7",
     "url-join": "^4.0.1"
-  }
+  },
+  "gitHead": "14504bf794a49cee1bf977aace5d12a0b0c733cd"
 }

@@ -23,9 +23,9 @@
     "access": "public"
   },
   "dependencies": {
-    "@gykjcs-cli-dev/get-npm-info": "file:../../utils/get-npm-info",
-    "@gykjcs-cli-dev/init": "file:../../commands/init",
-    "@gykjcs-cli-dev/log": "file:../../utils/log",
+    "@gykjcs-cli-dev/get-npm-info": "^1.1.1",
+    "@gykjcs-cli-dev/init": "^1.1.1",
+    "@gykjcs-cli-dev/log": "^1.1.1",
     "colors": "^1.4.0",
     "commander": "^6.2.1",
     "dotenv": "^16.0.1",
@@ -37,5 +37,5 @@
     "semver": "^7.3.7",
     "user-home": "^3.0.0"
   },
-  "gitHead": "ef7f34080ca29d79b903bd295d205ef3be8736a5"
+  "gitHead": "14504bf794a49cee1bf977aace5d12a0b0c733cd"
 }
