@@ -1,6 +1,6 @@
 {
   "name": "@gykjcs-cli-dev/core",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "gykjcs-cli-dev core",
   "author": "tengye",
   "homepage": "",
@@ -23,9 +23,9 @@
     "access": "public"
   },
   "dependencies": {
-    "@gykjcs-cli-dev/get-npm-info": "^1.1.1",
-    "@gykjcs-cli-dev/init": "^1.1.1",
-    "@gykjcs-cli-dev/log": "^1.1.1",
+    "@gykjcs-cli-dev/get-npm-info": "^1.1.2",
+    "@gykjcs-cli-dev/init": "^1.1.2",
+    "@gykjcs-cli-dev/log": "^1.1.2",
     "colors": "^1.4.0",
     "commander": "^6.2.1",
     "dotenv": "^16.0.1",
